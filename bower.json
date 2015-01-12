@@ -1,0 +1,16 @@
+{
+  "name": "napkeeper",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "angular": "1.x",
+    "angular-route": "1.x",
+    "mobile-angular-ui": "1.2.x",
+    "font-awesome": "4.x",
+    "bootstrap": "3.x"
+  },
+  "devDependencies": {
+    "jquery": "~2.1.3",
+    "angular-facebook": "~0.2.3"
+  }
+}
